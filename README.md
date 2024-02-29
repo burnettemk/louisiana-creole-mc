@@ -1,0 +1,1 @@
+This is a language resource pack for Louisiana Creole, an endangered French Creole language of Louisiana. This resource pack is being made for version 1.19.1, but in the future I plan to have releases for future versions.
