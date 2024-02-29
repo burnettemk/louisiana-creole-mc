@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Changes languages"
+  },
+  "language": {
+    "lc_us": {
+      "name": "Louisiana Creole",
+      "region": "United States",
+      "bidirectional": "false"
+    }
+  }
+}
